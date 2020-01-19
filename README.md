@@ -7,5 +7,8 @@ Boilerplate django starter that will continuously improve as I learn new technol
 
 ## Custom Features
 ### Management Commands
-'''python manage.py create_users 50'''
+```
+python manage.py create_users 50
+```
+
 Creates 50 users with random usernames and random passwords
